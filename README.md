@@ -16,13 +16,13 @@ My journey in technology and UX began in my childhood, inspired by watching star
 
 - **[Food Blog Website](https://github.com/julieoyen/FED1-exam-julieoyen):** Final exam project for my first year at Noroff.
 - **[Quiz Website](https://github.com/julieoyen/quizaholics):** Collaboration project at Noroff.
-- **[Science Museum Website](https://github.com/julieoyen/semesterproject1):** Semester project from my first semester at Noroff.
+- **[Science Museum Website](https://github.com/julieoyen/semesterproject1):** Semester project from my first semester at Noroff. I was only allowed to code CSS and HTML in this project
 
 ### Currently Learning & Interests 🌱
 
 Next year, I'll be learning **React** and **Tailwind** at Noroff. In my spare time, I'm exploring **AI** and I'm interested in learning more about **cybersecurity**. I’m always eager to expand my skill set and stay updated with the latest trends in technology.
 
-### Get in Touch 📬
+### Get in Touch 🤝
 
  [![My Skills](https://skillicons.dev/icons?i=linkedin)]( https://www.linkedin.com/in/julie-bertine-%C3%B8yen-872b0a233/)
 
