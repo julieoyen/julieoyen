@@ -10,10 +10,7 @@ My journey in technology and UX began in my childhood, inspired by watching star
 
 ### Skills & Technologies 🛠️
 
-- **JavaScript**
-- **CSS**
-- **HTML**
-- **Figma**
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma)](https://skillicons.dev)
 
 ### Projects 🚀
 
