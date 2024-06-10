@@ -24,8 +24,7 @@ Next year, I'll be learning **React** and **Tailwind** at Noroff. In my spare ti
 
 ### Get in Touch 📬
 
-- **[LinkedIn]( https://www.linkedin.com/in/julie-bertine-%C3%B8yen-872b0a233/)**
-- **[Email](juliebertine@gmail.com)**
+ [![My Skills](https://skillicons.dev/icons?i=linkedin)]( https://www.linkedin.com/in/julie-bertine-%C3%B8yen-872b0a233/)
 
 ### Fun facts ⚡ 
 
