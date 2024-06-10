@@ -22,11 +22,13 @@ My journey in technology and UX began in my childhood, inspired by watching star
 
 Next year, I'll be learning **React** and **Tailwind** at Noroff. In my spare time, I'm exploring **AI** and I'm interested in learning more about **cybersecurity**. I’m always eager to expand my skill set and stay updated with the latest trends in technology.
 
-### Get in Touch 🤝
-
- [![My Skills](https://skillicons.dev/icons?i=linkedin)]( https://www.linkedin.com/in/julie-bertine-%C3%B8yen-872b0a233/)
-
 ### Fun facts ⚡ 
 
 - I have a bachelors degree in early childhood education
 - I've lived/studied in the US, Nicaragua and Spain
+
+### Get in Touch 🤝
+
+ [![My Skills](https://skillicons.dev/icons?i=linkedin)]( https://www.linkedin.com/in/julie-bertine-%C3%B8yen-872b0a233/)
+  [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:juliebertine@gmail.com)
+ 
