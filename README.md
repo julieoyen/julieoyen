@@ -8,9 +8,12 @@ I'm currently studying at Noroff and have just finished my first year. Next year
 
 My journey in technology and UX began in my childhood, inspired by watching startups like Facebook and Instagram grow. I was always thrilled by new updates and features, especially improvements in the user experience. This early fascination has driven me to pursue a career where I can combine creativity with technology.
 
-### Skills & Technologies 🛠️
+### Skills 💡
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma)](https://skillicons.dev)
+### Tools & Technologies 🛠️
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,figma)](https://skillicons.dev)
 
 ### Projects 🚀
 
