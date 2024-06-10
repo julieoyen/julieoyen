@@ -6,7 +6,7 @@ I'm a Front End Developer student based in Oslo, passionate about web developmen
 
 I'm currently studying at Noroff and have just finished my first year. Next year, I'll continue my studies at Noroff and start my UX journey with online learning at Gokstad Akademiet. I aim to complete both programs by June 2025. This summer, I'll be working as a coding teacher at a kids' code camp at Schibsted, and in the fall, I'll be volunteering at a coding camp for girls, called TENK tech camp.
 
-My journey in technology and UX began in my childhood, inspired by watching startups like Facebook and Instagram grow. I was always thrilled by new updates and features, especially improvements in the user experience. This early fascination has driven me to pursue a career where I can combine creativity with technology to solve real-world problems.
+My journey in technology and UX began in my childhood, inspired by watching startups like Facebook and Instagram grow. I was always thrilled by new updates and features, especially improvements in the user experience. This early fascination has driven me to pursue a career where I can combine creativity with technology.
 
 ### Skills & Technologies 🛠️
 
@@ -23,7 +23,7 @@ My journey in technology and UX began in my childhood, inspired by watching star
 
 ### Currently Learning & Interests 🌱
 
-Next year, I'll be learning React and Tailwind at Noroff. In my spare time, I'm exploring AI and I'm interested in learning more about cybersecurity. I’m always eager to expand my skill set and stay updated with the latest trends in technology and UX design.
+Next year, I'll be learning **React** and **Tailwind** at Noroff. In my spare time, I'm exploring **AI** and I'm interested in learning more about **cybersecurity**. I’m always eager to expand my skill set and stay updated with the latest trends in technology.
 
 ### Get in Touch 📬
 
